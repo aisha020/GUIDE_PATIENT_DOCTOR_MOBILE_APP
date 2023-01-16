@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MEDI CONSULT</string>
+
+    <string name="title_AskRole">Choix du Rôle</string>
+    <string name="AskRole_doctor">Doctor</string>
+    <string name="AskRole_patient">Patient</string>
+    <string name="change_lang">Change la langue</string>
+    <string name="phone_nb">Entrer un numéro valid</string>
+    <string name="title_call">Appel SOS d\'urgence </string>
+    <string name="contact_consult">24/7 Conseil</string>
+    <string name="title_disease">Mr. XX Vous Avez Peut-être..</string>
+    <string name="buttom_disease">Pour plus d\'informations, cliquez ici</string>
+    <string name="main_name">Entrez votre nom complet</string>
+    <string name="main_age">Entrez votre âge</string>
+    <string name="main_male">Mâle</string>
+    <string name="main_female">Femelle</string>
+    <string name="title_signin">CONNEXION</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="title_signup">INSCRIPTION</string>
+    <string name="signin_ac">Vous n\'avez pas encore creer un compte ?</string>
+    <string name="passwordconf">Confirmez le mot de passe</string>
+    <string name="signup_ac">Vous avez déjà creer un compte ?</string>
+    <string name="signup_condition">Veuillez accepter les conditions d\'utilisation</string>
+    <string name="title_symptom">Entez vos Symptomes !</string>
+    <string name="buttom_symptom">CONNAISSEZ VOTRE MALADIE</string>
+
+
+
+    <string name="title_activity_main">main</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="key"> ---------- ENTER YOUR GOOGLE MAPS API KEY ----------- </string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="contact">contact</string>
+    <string name="title_activity_map">Map</string>
+    <string name="doc_phone">Enter your phone number : +212 xxxxxxxxx</string>
+    <string name="doc_verif">Enter the code</string>
+    <string name="next">NEXT</string>
+    <string name="buttom_doc">SUBMIT</string>
+    <string name="didn_t_tget_otp_resend" translatable="false">didn\'t get The Code?<b>Resend</b></string>
+
+
+</resources>
